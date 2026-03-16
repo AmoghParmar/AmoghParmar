@@ -28,8 +28,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoghparmar&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=amoghparmar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghparmar&layout=compact&theme=dracula&hide_border=true" height="180" alt="top langs" />
 </div>
 
 ###
@@ -42,12 +41,6 @@
 - 💬 Ask me about **React, TypeScript, GSAP, and Open Source**
 - ⚡ Fun fact: **I’m a Mechanical Engineer turned Full-Stack Developer!**
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoghparmar&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top langs" />
 </div>
 
 ###
