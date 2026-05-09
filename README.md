@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Amogh Parmar</h1>
+<!-- <h1 align="center">Hey 👋 I'm Amogh Parmar</h1>
 
 <h3 align="center">A passionate Software Developer from India specializing in React and Open Source</h3>
 
@@ -43,4 +43,4 @@
 
 </div>
 
-###
+### -->
